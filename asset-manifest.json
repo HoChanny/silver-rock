@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/silver-rock/static/css/main.e0c3e8dd.css",
+    "main.js": "/silver-rock/static/js/main.3374f46b.js",
+    "static/media/club.jpg": "/silver-rock/static/media/club.3ca3598020d6339c87e3.jpg",
+    "static/media/club_tennis.jpg": "/silver-rock/static/media/club_tennis.eabeb18cdfc9ba5fba3b.jpg",
+    "static/media/club_badminton.jpg": "/silver-rock/static/media/club_badminton.2052487285d30bbbe082.jpg",
+    "static/media/SUITE-Variable.ttf": "/silver-rock/static/media/SUITE-Variable.f7b4edbae4ae1bf9cb2d.ttf",
+    "static/media/friendList.jpg": "/silver-rock/static/media/friendList.4d733af3d26faed45484.jpg",
+    "index.html": "/silver-rock/index.html",
+    "main.e0c3e8dd.css.map": "/silver-rock/static/css/main.e0c3e8dd.css.map",
+    "main.3374f46b.js.map": "/silver-rock/static/js/main.3374f46b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c3e8dd.css",
+    "static/js/main.3374f46b.js"
+  ]
+}
